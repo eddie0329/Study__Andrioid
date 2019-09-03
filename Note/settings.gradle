@@ -1,0 +1,1 @@
+include ':app', ':activity_intent', ':sqlite_practice', ':sqlite_practice2', ':sqlite_practice3', ':thread_practice'
