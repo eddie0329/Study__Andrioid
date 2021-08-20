@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Study__Andrioid.iml" filepath="$PROJECT_DIR$/.idea/Study__Andrioid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Study__Andrioid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Study__Andrioid.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello/Study__Andrioid.hello.iml" filepath="$PROJECT_DIR$/.idea/modules/hello/Study__Andrioid.hello.iml" />
+    </modules>
+  </component>
+</project>
