@@ -7,6 +7,12 @@
         <entry key="hello/src/main/res/layout/activity_menu.xml" value="0.25" />
         <entry key="hello/src/main/res/layout/test2.xml" value="0.283203125" />
         <entry key="hello2/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="hello3/src/main/res/layout/activity_main.xml" value="0.27421875" />
+        <entry key="hello3/src/main/res/layout/baseline.xml" value="0.284765625" />
+        <entry key="hello3/src/main/res/layout/gravity.xml" value="0.284765625" />
+        <entry key="hello3/src/main/res/layout/mainlayout.xml" value="0.284765625" />
+        <entry key="hello3/src/main/res/layout/padding.xml" value="0.284765625" />
+        <entry key="hello3/src/main/res/layout/weight.xml" value="0.284765625" />
       </map>
     </option>
   </component>
