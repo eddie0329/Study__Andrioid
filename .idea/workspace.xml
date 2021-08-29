@@ -15,9 +15,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="428eaf56-56c8-4366-9e0a-2e3f20aa6615" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hello3/src/main/res/layout/relative.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello3/src/main/java/com/example/hello3/MainActivity2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello3/src/main/java/com/example/hello3/MainActivity3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello3/src/main/java/com/example/hello3/MainActivity4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello3/src/main/res/drawable/image1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello3/src/main/res/drawable/image2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello3/src/main/res/layout/frame_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello3/src/main/res/layout/scroll_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello3/src/main/res/layout/table.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello3/src/main/res/layout/test1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello3/src/main/res/layout/test2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello3/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hello3/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello3/src/main/java/com/example/hello3/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello3/src/main/java/com/example/hello3/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +82,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="memory.settings.postsync.last.time.stamp" value="1629564002363" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hello3/src/main/res/drawable" />
+    </key>
   </component>
   <component name="RunManager" selected="Android App.hello3">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -321,5 +344,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/hello3/src/main/java/com/example/hello3/MainActivity4.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

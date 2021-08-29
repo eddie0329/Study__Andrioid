@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <EditText
+        android:id="@+id/inputText"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="입력 상자"
+        android:gravity="center"
+        />
+
+   <LinearLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal"
+       android:layout_gravity="end"
+       android:layout_marginTop="10dp"
+       >
+       <TextView
+           android:id="@+id/inputCount"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="0 / 80 바이트"
+           android:layout_gravity="end"
+           android:textColor="#ff0000"
+           />
+   </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal">
+        <Button
+            android:id="@+id/buttonSend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="전송"
+            android:layout_marginEnd="10dp"
+            />
+        <Button
+            android:id="@+id/buttonClose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="닫기"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+</LinearLayout>

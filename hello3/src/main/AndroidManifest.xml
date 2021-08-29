@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Study__Andrioid">
         <activity
-            android:name=".LayoutCodeActivity"
+            android:name=".MainActivity4"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

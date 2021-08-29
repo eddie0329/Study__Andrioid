@@ -7,12 +7,19 @@
         <entry key="hello/src/main/res/layout/activity_menu.xml" value="0.25" />
         <entry key="hello/src/main/res/layout/test2.xml" value="0.283203125" />
         <entry key="hello2/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="hello3/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17265625" />
+        <entry key="hello3/src/main/res/drawable/ic_launcher_background.xml" value="0.17265625" />
         <entry key="hello3/src/main/res/layout/activity_main.xml" value="0.27421875" />
         <entry key="hello3/src/main/res/layout/baseline.xml" value="0.284765625" />
+        <entry key="hello3/src/main/res/layout/frame_view.xml" value="0.284765625" />
         <entry key="hello3/src/main/res/layout/gravity.xml" value="0.284765625" />
         <entry key="hello3/src/main/res/layout/mainlayout.xml" value="0.284765625" />
         <entry key="hello3/src/main/res/layout/padding.xml" value="0.284765625" />
         <entry key="hello3/src/main/res/layout/relative.xml" value="0.284765625" />
+        <entry key="hello3/src/main/res/layout/scroll_view.xml" value="0.160546875" />
+        <entry key="hello3/src/main/res/layout/table.xml" value="0.284765625" />
+        <entry key="hello3/src/main/res/layout/test1.xml" value="0.160546875" />
+        <entry key="hello3/src/main/res/layout/test2.xml" value="0.33" />
         <entry key="hello3/src/main/res/layout/weight.xml" value="0.284765625" />
       </map>
     </option>
